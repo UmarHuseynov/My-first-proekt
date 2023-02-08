@@ -1,0 +1,145 @@
+
+*{
+    margin-top: 10px ;
+}
+#Username{
+    background-color: black;
+    margin-top: 10px;
+    color: white;
+}
+#Lastname{
+    background-color: black;
+    color: white;
+}
+#Button{
+    background-color: green;
+    color: white;
+    box-sizing: border-box;
+}
+.Form1{
+    background-color: grey;
+    width: 550px;
+    height: 50px;
+}
+#Username2{
+    background-color: black;
+    color: white;
+}
+#Lastname2{
+    background-color: black;
+    color: white;
+}
+#Button2{
+    background-color: green;
+    color: white;
+    box-sizing: border-box;
+}
+.Form2{
+    background-color: grey;
+    width: 350px;
+    height: 175px;
+}
+.Form4{
+    background-color: grey;
+    width: 295px;
+    height: 50px;
+}
+#Username4{
+    background-color: black;
+    color: white;
+}
+#Button4{
+    background-color: green;
+    color: white;
+    box-sizing: border-box;
+}
+.Backround{
+    width: 20px;
+    height: 200px;
+    
+
+}
+.Submit{
+    background-color: grey;
+    width: 425px;
+    height: 50px;
+    margin-top: 80px;
+    
+}
+#Submit{
+    color: white;
+    background-color: black;
+}
+
+.Color{
+    margin-top: 100px;
+    width: 100px;
+    height: 100px;
+    background: linear-gradient(to right, red, blue);
+}
+.Color2{
+    margin-top: 10px;
+    width: 100px;
+    height: 100px;
+    background: linear-gradient(to left, red, blue);
+}
+.Color3{
+    margin-top: 10px;
+    width: 100px;
+    height: 100px;
+    background: linear-gradient(to top, red, blue);
+}
+.Color4{
+    margin-top: 10px;
+    width: 100px;
+    height: 100px;
+    background: linear-gradient(to bottom, red, blue);
+}
+.Color5{
+    margin-top: 10px;
+    width: 100px;
+    height: 100px;
+    background: linear-gradient( to right, red 40%, blue );
+}
+.Color6{
+    margin-top: 10px;
+    width: 100px;
+    height: 100px;
+    background: linear-gradient(to top left, red 30%, blue);
+}
+.Color7{
+    margin-top: 10px;
+    width: 100px;
+    height: 100px;
+    background: linear-gradient( to top right, red 30%, blue );
+}
+.Color8{
+    margin-top: 10px;
+    width: 100px;
+    height: 100px;
+    background:  linear-gradient(to left, green , blue , red);
+}
+.Color9{
+    margin-top: 10px;
+    width: 100px;
+    height: 100px;
+    background:  linear-gradient(to left,red, green ,blue ,red);
+}
+.Color10{
+    margin-top: 10px;
+    width: 100px;
+    height: 100px;
+    background:  radial-gradient(red, blue ,green ,red);
+}
+.Color11{
+    margin-top: 10px;
+    width: 100px;
+    height: 100px;
+    background: repeating-linear-gradient( red,red 5px, blue 5px, blue 10px) ;
+}
+.Color12{
+    margin-top: 10px;
+    width: 100px;
+    height: 100px;
+    background: repeating-radial-gradient( red,red 5px, blue 5px, blue 10px) ;
+}
